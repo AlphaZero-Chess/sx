@@ -2423,7 +2423,7 @@
         enabled: true,
         playAsWhite: true,
         playAsBlack: true,
-        movetime: 1000
+        movetime: 1003
     };
 
     const STATE = {
