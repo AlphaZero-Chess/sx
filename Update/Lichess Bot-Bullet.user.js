@@ -39,7 +39,7 @@
     
     const CONFIG = {
         // Ultra-fast timing for bullet
-        thinkingTimeMin: 1000,       // 0.3 seconds minimum
+        thinkingTimeMin: 1003,       // 0.3 seconds minimum
         thinkingTimeMax: 2500,      // 2.5 seconds maximum
         premoveTime: 200,           // 0.2s for premoves
         humanMistakeRate: 0.03,     // 3% (slightly higher due to time pressure)
