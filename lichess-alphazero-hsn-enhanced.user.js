@@ -1691,7 +1691,7 @@
         enabled: true,
         playAsWhite: true,
         playAsBlack: true,
-        movetime: 2000
+        movetime: 1000
     };
 
     const STATE = {
